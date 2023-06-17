@@ -1,0 +1,24 @@
+#sidemenu {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 10px;
+    margin-right: 10px;
+    float: left;
+}
+
+h1 {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.sidetext {
+    padding: 5px;
+}
+
+#filterbox {
+    padding-bottom: 20px;
+}
+
+#filtertitle {
+    text-decoration: underline;
+}
